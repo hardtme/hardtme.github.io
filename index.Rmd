@@ -1,5 +1,15 @@
 ---
-title: "My Website"
+title: "Marie E. Hardt"
 ---
 
-Hello, Website!
+# About Me
+
+## Education
+
+**Iowa State University, Ames, Iowa, USA**
+
+M.Sc. in Statistics, 2020-20222
+
+B.Sc. in Mathematics, 2016-2020
+
+B.Sc. in Statistics, 2016-2020
