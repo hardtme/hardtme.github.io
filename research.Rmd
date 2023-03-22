@@ -2,3 +2,16 @@
 title: "Research"
 ---
 
+# Summary of My Past Research Projects
+
+**Student Researcher**, Iowa State University Freshman Honors Mentor Program (Spring 2017)
+
+Dr. Steve Butler, Associate Professor of Mathematics, Iowa State University
+
+* Researched graph theory with Dr. Butler and another undergraduate
+
+* Derived and simplified equations for probabilities of all five families of graphs with at most two trees in a forest-building process
+
+* Utilized Sage mathematics software to numerically derive patterns in the probabilities of a specific graph family; patterns found were proven correct
+
+* Publication:
