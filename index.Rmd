@@ -4,7 +4,7 @@ title: "Marie E. Hardt"
 
 # About Me
 
-## Education
+### Education
 
 **Iowa State University, Ames, Iowa, USA**
 

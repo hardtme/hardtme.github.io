@@ -3,12 +3,14 @@ output_dir: "."
 navbar:
   title: "MEH"
   left:
-    - text: "Home"
+    - text: "About Me"
       href: index.html
     - text: "Research"
       href: research.html
     - text: "Teaching Experience"
       href: teaching.html
+    - text: "Industry Experience"
+      href: industry.html
 output:
   html_document:
     theme: yeti
