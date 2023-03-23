@@ -2,17 +2,19 @@
 title: "Research"
 ---
 
-### Research Interests
+### Interests
 
 * Applied statistics
 
 * Sports statistics, especially golf
 
+* Bayesian statistics
+
 * Survival analysis
 
 * Graph theory
 
-### Publications
+### Publication
 
 Butler, S., Hamanaka, M., & **Hardt, M**. (2019). Graphs with at most two trees in a forest-building process. Involve, 12(4), 659-670. DOI: 10.2140/involve.2019.12.659
 
