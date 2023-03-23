@@ -13,4 +13,4 @@ navbar:
       href: industry.html
 output:
   html_document:
-    theme: yeti
+    theme: cerulean

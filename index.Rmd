@@ -2,9 +2,13 @@
 title: "Marie E. Hardt"
 ---
 
+### About Me
+
+I'm a Ph.D. candidate in Statistics at Iowa State University.
+
 ### Education
 
-**Iowa State University, Ames, Iowa, USA**
+Iowa State University, Ames, Iowa, USA
 
 Ph.D. in Statistics, 2020-present
 
