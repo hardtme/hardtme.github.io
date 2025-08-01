@@ -2,8 +2,12 @@
 title: "Industry Experience"
 ---
 
+### Statistical Consulting
+
+* Statistical Consultant, Advanced Modeling/Artificial Intelligence Group, Corteva Agriscience (remote experience from spring 2023 to spring 2024)
+
 ### Internships
 
-* Analytics internship, Intelligent Solutions Group, John Deere (virtual experience during summer 2021)
+* Analytics Intern, Intelligent Solutions Group, John Deere (remote experience during summer 2021)
 
-* Analytics Intern, Ag and Turf Order Fulfillment, John Deere (virtual experience during summer 2020)
+* Analytics Intern, Ag and Turf Order Fulfillment, John Deere (remote experience during summer 2020)

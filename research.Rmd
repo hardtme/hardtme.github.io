@@ -2,7 +2,11 @@
 title: "Research"
 ---
 
-### Interests
+### Research Interests
+
+* Analysis of transportation data
+
+* Data visualization
 
 * Applied statistics
 
@@ -10,11 +14,13 @@ title: "Research"
 
 * Bayesian statistics
 
-* Survival analysis
+### Publications
 
-* Graph theory
+**Hardt, M.** & Nettleton, D. (2025) A hierarchical approach to modeling golf hole scores with Hardy distributions. *JQAS*, 21(2), 91-115. DOI: 10.1515/jqas-2024-0036
 
-### Publication
+Butler, S., Hamanaka, M., & **Hardt, M.** (2019). Graphs with at most two trees in a forest-building process. *Involve*, 12(4), 659-670. DOI: 10.2140/involve.2019.12.659
 
-Butler, S., Hamanaka, M., & **Hardt, M**. (2019). Graphs with at most two trees in a forest-building process. Involve, 12(4), 659-670. DOI: 10.2140/involve.2019.12.659
+### Software
+
+**Hardt, M.**, Hofmann, H., & Basulto-Elias, G. DrivePlotR: linked plot maps for multivariate high resolution spatio-temporal data. R package available at https://github.com/hardtme/DrivePlotR.
 
