@@ -7,9 +7,9 @@ navbar:
       href: index.html
     - text: "Research"
       href: research.html
-    - text: "Teaching Experience"
+    - text: "Teaching Experiences"
       href: teaching.html
-    - text: "Industry Experience"
+    - text: "Industry Experiences"
       href: industry.html
 output:
   html_document:
