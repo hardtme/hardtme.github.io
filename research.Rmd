@@ -30,6 +30,8 @@ Basulto-Elias, G., Knickerbocker, S., & **Hardt, M.** (2025). Development of an 
 
 Basulto-Elias, G. and **Hardt, M.** (2025). Work Zone Performance Metrics Analysis Tool (WZPERFOMAT). R Shiny app available [here](https://reactor-shiny.intrans.iastate.edu/wzperfomat/). 
 
+Wood, J., Basulto-Elias, G., **Hardt, M.** (2025) flexCountReg: estimation of a variety of count regression models. R package available on [GitHub](https://github.com/jwood-iastate/flexCountReg).
+
 ### Conference Presentations
 
 **Hardt, M.**, Hofmann, H., & Basulto-Elias, G. (2026) DrivePlotR: linked plot maps for multivariate high resolution spatio-temporal data. Poster presentation at the Annual Meeting of the Transportation Research Board, Washington, DC, January 13.
