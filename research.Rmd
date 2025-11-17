@@ -14,13 +14,28 @@ title: "Research"
 
 * Bayesian statistics
 
-### Publications
+### Peer-Reviewed Publications
 
-**Hardt, M.** & Nettleton, D. (2025) A hierarchical approach to modeling golf hole scores with Hardy distributions. *JQAS*, 21(2), 91-115. DOI: 10.1515/jqas-2024-0036
+**Hardt, M.** & Nettleton, D. (2025) A hierarchical approach to modeling golf hole scores with Hardy distributions. *JQAS*, 21(2), 91-115. DOI: [10.1515/jqas-2024-0036](https://www.doi.org/10.1515/jqas-2024-0036).
 
-Butler, S., Hamanaka, M., & **Hardt, M.** (2019). Graphs with at most two trees in a forest-building process. *Involve*, 12(4), 659-670. DOI: 10.2140/involve.2019.12.659
+Butler, S., Hamanaka, M., & **Hardt, M.** (2019). Graphs with at most two trees in a forest-building process. *Involve*, 12(4), 659-670. DOI: [10.2140/involve.2019.12.659](https://www.doi.org/10.2140/involve.2019.12.659).
+
+### Technical Report
+
+Basulto-Elias, G., Knickerbocker, S., & **Hardt, M.** (2025). Development of an analytical tool for work zone performance. Available [here](https://www.intrans.iastate.edu/research/completed/development-of-an-analytical-tool-for-work-zone-performance/).
 
 ### Software
 
-**Hardt, M.**, Hofmann, H., & Basulto-Elias, G. DrivePlotR: linked plot maps for multivariate high resolution spatio-temporal data. R package available at https://github.com/hardtme/DrivePlotR.
+**Hardt, M.**, Hofmann, H., & Basulto-Elias, G. (2025) DrivePlotR: linked plot maps for multivariate high resolution spatio-temporal data. R package available on [GitHub](https://github.com/hardtme/DrivePlotR).
+
+Basulto-Elias, G. and **Hardt, M.** (2025). Work Zone Performance Metrics Analysis Tool (WZPERFOMAT). R Shiny app available [here](https://reactor-shiny.intrans.iastate.edu/wzperfomat/). 
+
+### Conference Presentations
+
+**Hardt, M.**, Hofmann, H., & Basulto-Elias, G. (2026) DrivePlotR: linked plot maps for multivariate high resolution spatio-temporal data. Poster presentation at the Annual Meeting of the Transportation Research Board, Washington, DC, January 13.
+
+**Hardt, M.** and Nettleton, D. (2024). A hierarchical approach to modeling golf hole scores with Hardy distributions. Virtual poster presentation at the Midwest Sports Analytics Meeting, hosted by Central College, Pella, IA, November 23.
+
+**Hardt, M.** and Nettleton, D. (2022). New approaches to modeling golf hole scores with Hardy distributions. Poster presentation at the Iowa State University Department of Statistics 75th Anniversary Celebration Conference, Ames, IA, September 30.
+
 
