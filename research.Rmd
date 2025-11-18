@@ -34,7 +34,7 @@ Wood, J., Basulto-Elias, G., **Hardt, M.** (2025) flexCountReg: estimation of a 
 
 ### Conference Presentations
 
-**Hardt, M.**, Hofmann, H., & Basulto-Elias, G. (2026) DrivePlotR: linked plot maps for multivariate high resolution spatio-temporal data. Poster presentation at the Annual Meeting of the Transportation Research Board, Washington, DC, January 13.
+**Hardt, M.**, Hofmann, H., & Basulto-Elias, G. (2026) DrivePlotR: linked plot maps for multivariate high resolution spatio-temporal data. Poster presentation at the Transportation Research Board Annual Meeting, Washington, DC, January 13.
 
 **Hardt, M.** and Nettleton, D. (2024). A hierarchical approach to modeling golf hole scores with Hardy distributions. Virtual poster presentation at the Midwest Sports Analytics Meeting, hosted by Central College, Pella, IA, November 23.
 
