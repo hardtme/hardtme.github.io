@@ -4,16 +4,20 @@ title: "Marie E. Hardt"
 
 ### About Me
 
-I'm a Ph.D. candidate in Statistics at Iowa State University.
+I'm a Ph.D. candidate in Statistics at Iowa State University. My current research focuses on creating statistical tools to process, visualize, and analyze large-scale spatio-temporal transportation data. I also have experience in creating new statistical methods for analyzing golf hole scores and building predictive models for agricultural data. I'm enthusiastic about collaborating with interdisciplinary teams to deliver data-driven insights and power decision-making!
 
 ### Education
 
 Iowa State University, Ames, Iowa, USA
 
-Ph.D. in Statistics, Spring 2023-present (co-major professors: Dr. Heike Hofmann, Dr. Alicia Carriquiry, and Dr. Shauna Hallmark)
+* Ph.D. in Statistics, Spring 2023-present (expected Summer 2026).
+  - Co-major professors: Dr. Heike Hofmann, Dr. Alicia Carriquiry, and Dr. Shauna Hallmark.
+  - Dissertation (in-progress): Statistical tools for large-scale spatio-temporal transportation data.
 
-M.Sc. in Statistics, Fall 2020-Fall 2022 (major professor: Dr. Dan Nettleton)
+* M.Sc. in Statistics, Fall 2020-Fall 2022.
+  - Major progressor: Dr. Dan Nettleton.
+  - Creative Component: New approaches to modeling golf hole scores with Hardy distributions.
 
-B.Sc. in Mathematics, Fall 2016-Spring 2020
+* B.Sc. in Mathematics & B.Sc in Statistics with a Minor in Music and in the Honors Program (Summa Cum Laude), Fall 2016-Spring 2020.
 
-B.Sc. in Statistics, Fall 2016-Spring 2020
+

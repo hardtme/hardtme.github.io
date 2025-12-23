@@ -4,10 +4,17 @@ title: "Industry Experiences"
 
 ### Statistical Consulting
 
-* Statistical Consultant, Advanced Modeling/Artificial Intelligence Group, Corteva Agriscience (remote experience from spring 2023 to spring 2024)
+#### Statistical Consultant, Advanced Modeling/Artificial Intelligence Group, Corteva Agriscience (remote experience from spring 2023 to spring 2024).
+
+I assessed the impact of regulatory requirement changes on previous benchmark dose (BMD) analyses. I also tested and compared the performances of available software for BMD analyses to choose the best option for production use.
 
 ### Internships
 
-* Analytics Intern, Intelligent Solutions Group, John Deere (remote experience during summer 2021)
+#### Analytics Intern, Intelligent Solutions Group, John Deere (remote experience during summer 2021).
 
-* Analytics Intern, Ag and Turf Order Fulfillment, John Deere (remote experience during summer 2020)
+I engineered new features from field operation data and integrated them into machine learning pipelines using Python. I also used natural language processing to reduce the dimensionality of data on the crop types planted in fields, simplifying the inclusion of this information in models. I predicted field operation areas using deep learning models and deployed the most effective model to the production model repository.
+
+#### Analytics Intern, Ag and Turf Order Fulfillment, John Deere (remote experience during summer 2020).
+
+I modeled yearly turf product sales for North America at the state/province level using year-to-date sales and weather. I then aggregated these predictions up to the continental level. My forecasts of total sales volume were more accurate earlier in the fiscal year than sales forecast methods already in use.
+
