@@ -22,11 +22,13 @@ Butler, S., Hamanaka, M., and **Hardt, M.** (2019). Graphs with at most two tree
 
 ### Submitted Manuscripts
 
+**Hardt, M.**, Basulto-Elias, G., Hofmann, H., Hallmark, S., Sharma, A., Dawson, J., Rizzo, M., and Chang, J.H. Turns and downturns in aging drivers. Under review at *Transportation Research Interdisciplinary Perspectives.* 
+
 Basulto-Elias, G., Hallmark, S., **Hardt, M.**, Chang, J.H., Dawson, J., Sharma, A., and Rizzo, M. Cognitive status and speed control in older drivers. Submitted to the *Journal of the American Geriatrics Society*.
 
 ### Manuscripts Under Preparation
 
-**Hardt, M.**, Basulto-Elias, G., Hofmann, H., Hallmark, S., Sharma, A., Dawson, J., Rizzo, M., and Chang, J.H. Turns and downturns in aging drivers.      
+**Hardt, M.**, Hofmann, H., and Basulto-Elias, G. (2025) DrivePlotR: linked plot maps for multivariate high resolution spatio-temporal data. Under preparation for the *R Journal*.
 
 ### Technical Report
 
@@ -41,6 +43,8 @@ Basulto-Elias, G. and **Hardt, M.** (2025). Work Zone Performance Metrics Analys
 Wood, J., Basulto-Elias, G., **Hardt, M.** (2025) flexCountReg: estimation of a variety of count regression models. R package available on [GitHub](https://github.com/jwood-iastate/flexCountReg).
 
 ### Conference Presentations
+
+Venkatasubramanian, G. and **Hardt, M.** (co-presenters) (2026) Optimal Sequential Decision Making in Cooperative Games. Poster presentation at the Iowa Chapter of the American Statistical Association (ASA) Annual Meeting, Ames, IA, February 27.
 
 **Hardt, M.**, Hofmann, H., and Basulto-Elias, G. (2026) DrivePlotR: linked plot maps for multivariate high resolution spatio-temporal data. Poster presentation at the Transportation Research Board Annual Meeting, Washington, DC, January 13.
 
