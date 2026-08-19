@@ -10,7 +10,7 @@ I'm a Ph.D. candidate in Statistics at Iowa State University. My current researc
 
 Iowa State University, Ames, Iowa, USA
 
-* Ph.D. in Statistics, Spring 2023-present (expected Summer 2026).
+* Ph.D. in Statistics, Spring 2023-present (expected Fall 2026).
   - Co-major professors: Dr. Heike Hofmann, Dr. Alicia Carriquiry, and Dr. Shauna Hallmark.
   - Dissertation (in-progress): Statistical tools for large-scale spatio-temporal transportation data.
 
